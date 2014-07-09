@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AsyncExamples.iml" filepath="$PROJECT_DIR$/AsyncExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/asyncTaskLoader/asyncTaskLoader.iml" filepath="$PROJECT_DIR$/asyncTaskLoader/asyncTaskLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataRetreiver/dataRetreiver.iml" filepath="$PROJECT_DIR$/dataRetreiver/dataRetreiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/retainedFragment/retainedFragment.iml" filepath="$PROJECT_DIR$/retainedFragment/retainedFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleAsync/simpleAsync.iml" filepath="$PROJECT_DIR$/simpleAsync/simpleAsync.iml" />
     </modules>

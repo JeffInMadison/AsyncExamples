@@ -1,1 +1,1 @@
-include ':simpleAsync', ':asyncTaskLoader', ':retainedFragment', ':dataRetreiver'
+include ':simpleAsync', ':asyncTaskLoader', ':retainedFragment', ':dataRetreiver', ':common'

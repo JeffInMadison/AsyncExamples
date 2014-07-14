@@ -8,8 +8,8 @@ I'd like to start a Madison Android User Group and have started to put together 
 - Runnable handled on a thread 
 - Using AsyncTask (config change issues)
 - Using AsyncTaskLoader (Puts task outside of Activity/Fragment and allows you to re-attach)
-- Using non-UI fragment with setRetainInstance(true) to emulate what AsyncTaskLoader does
+- Using non-UI fragment with setRetainInstance(true) to emulate what LoaderManager does with AsyncTaskLoader
 - Use Square's Otto to publish/subsribe to an event bus
-- Use a ServiceIntent that broadcasts the result to the fragment
+- Use a ServiceIntent that broadcasts the result to the Activity/Fragment
  
 
